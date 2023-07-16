@@ -1,0 +1,285 @@
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.pdb
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Convidar_Amigos.resources
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Creditos.resources
+c:\users\joaquim\documents\visual studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.SobreNos.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.en-US.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.pt-PT.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.LeitorDeAudioVideo.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TSPGame.resources
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Joaquim\Documents\Visual Studio 2015\Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Convidar_Amigos.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Creditos.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.LeitorDeAudioVideo.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.SobreNos.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TSPGame.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.en-US.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.pt-PT.resources
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Familia Alain Lufua\Documents\Tspproject\AppPrincipal\obj\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.LeitorDeAudioVideo.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TSPGame.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.en-US.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.pt-PT.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Joaquim\Downloads\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.LeitorDeAudioVideo.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TSPGame.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.en-US.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.pt-PT.resources
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Gaspar Lemos\Documents\Tspproject\AppPrincipal\obj\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.LeitorDeAudioVideo.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TSPGame.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.en-US.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.TelaDEInicio.pt-PT.resources
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\en-US\AppPrincipal.resources.dll
+C:\Users\Joaquim\Documents\Tspproject\AppPrincipal\obj\Debug\pt-PT\AppPrincipal.resources.dll
+C:\Users\Mauro Twister\Documents\C# Projects\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Mauro Twister\Documents\C# Projects\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mauro Twister\Documents\C# Projects\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauro Twister\Documents\C# Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Mauro Twister\Documents\C# Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Mauro Twister\Documents\C# Projects\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Media.resources
+C:\Users\Claudio Macamo\Music\Tspproject\AppPrincipal\obj\Debug\AppPrincipal.Game.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Media.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Game.resources
+C:\Users\Claudio Macamo\Music\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+E:\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+E:\Projectos\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+E:\Projectos\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.exe
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.pdb
+E:\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe
+E:\Projectos\AppPrincipal\bin\Debug\AppPrincipal.pdb
+E:\Projectos\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+E:\Projectos\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Media.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Game.resources
+E:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+D:\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+D:\Projectos\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+D:\Projectos\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.exe
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.pdb
+D:\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe
+D:\Projectos\AppPrincipal\bin\Debug\AppPrincipal.pdb
+D:\Projectos\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+D:\Projectos\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Media.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Game.resources
+D:\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Media.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Game.resources
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\Documents\Projectos\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe.config
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.ResolveComReference.cache
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\bin\Debug\AppPrincipal.exe
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\bin\Debug\AppPrincipal.pdb
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Alarme.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Browser.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Calculadora.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Cronometro.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.App.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Media.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.MenuJogo.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Properties.Resources.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Sair.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.Game.resources
+C:\Users\Claudio Macamo\3D Objects\Projectos-Miguel\Projectos\AppPrincipal\obj\Debug\AppPrincipal.csproj.GenerateResource.Cache
